@@ -1,16 +1,9 @@
- # punch_in_reminder
+ Punch-In/Out Reminder App
 
-A new Flutter project.
+This is a mobile application built using Flutter to remind employees to punch-in and punch-out at work.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+•Set custom punch-in and punch-out reminders.
+•Receive push notifications when it's time to punch-in or punch-out.
+•Track your work hours and view a summary of your activities.
+•Edit snooze duration for reminders.
