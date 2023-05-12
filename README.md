@@ -9,5 +9,5 @@ Features
 •Receive push notifications when it's time to punch-in or punch-out.
 
 •Track your work hours and view a summary of your activities.
-
+ 
 •Edit snooze duration for reminders.
